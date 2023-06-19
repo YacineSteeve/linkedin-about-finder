@@ -31,4 +31,4 @@ The script may crash when you run it. You just have to start it again and it wil
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/YacineSteeve/linkedin-about-finder/blob/main/LICENSE)
